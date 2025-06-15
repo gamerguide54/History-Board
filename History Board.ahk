@@ -21,7 +21,7 @@ ToolTip   ; Turn off the tip.
 return
 
 show:
-Run, %A_ScriptDir% \Data\window.ahk
+Run, %A_ScriptDir% \Data\window.exe
 return
 
 delete:
